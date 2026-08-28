@@ -60,9 +60,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Present",
     points: [
-      `Niche specialist with targeted expertise`,
-      `Results-driven professional with measurable impact`,
-      `Differentiated by innovative problem solving`,
+      `Innovative problem-solver with 5+ years in data analytics`,
+      `Proven track record delivering ROI-driven solutions`,
+      `Expert in cross-functional team leadership`,
     ],
   },
 ];
@@ -83,8 +83,8 @@ const projects = [
     description: ``,
     tags: [
       { name: `Analytics`, color: "blue-text-gradient" },
-      { name: `Growth`, color: "green-text-gradient" },
-      { name: `Leadership`, color: "pink-text-gradient" },
+      { name: `AI`, color: "green-text-gradient" },
+      { name: `Visualization`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
@@ -93,9 +93,9 @@ const projects = [
     name: ``,
     description: ``,
     tags: [
-      { name: `Strategy`, color: "blue-text-gradient" },
-      { name: `Design`, color: "green-text-gradient" },
-      { name: `Implementation`, color: "pink-text-gradient" },
+      { name: `Automation`, color: "blue-text-gradient" },
+      { name: `Cloud`, color: "green-text-gradient" },
+      { name: `Scalability`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
