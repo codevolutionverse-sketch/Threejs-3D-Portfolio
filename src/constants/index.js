@@ -60,9 +60,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Present",
     points: [
-      `Seasoned professional with 10+ years experience`,
-      `Proven track record delivering results`,
-      `Strong leader and strategic thinker`,
+      `Niche specialist with targeted expertise`,
+      `Results-driven professional with measurable impact`,
+      `Differentiated by innovative problem solving`,
     ],
   },
 ];
@@ -82,9 +82,9 @@ const projects = [
     name: ``,
     description: ``,
     tags: [
-      { name: `AI`, color: "blue-text-gradient" },
-      { name: `Automation`, color: "green-text-gradient" },
-      { name: `Analytics`, color: "pink-text-gradient" },
+      { name: `Analytics`, color: "blue-text-gradient" },
+      { name: `Growth`, color: "green-text-gradient" },
+      { name: `Leadership`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
@@ -93,9 +93,9 @@ const projects = [
     name: ``,
     description: ``,
     tags: [
-      { name: `Cloud`, color: "blue-text-gradient" },
-      { name: `Security`, color: "green-text-gradient" },
-      { name: `Scalability`, color: "pink-text-gradient" },
+      { name: `Strategy`, color: "blue-text-gradient" },
+      { name: `Design`, color: "green-text-gradient" },
+      { name: `Implementation`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
