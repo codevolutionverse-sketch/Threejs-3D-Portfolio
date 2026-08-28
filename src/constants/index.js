@@ -60,9 +60,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Present",
     points: [
-      `Strategic thinker with 5+ years in niche market growth`,
-      `Proven track record of boosting revenue by 30% through innovative solutions`,
-      `Expert at differentiating brands in crowded spaces`,
+      `Proven leader driving measurable growth`,
+      `Expert in cross-functional team management`,
+      `Track record of delivering high-impact solutions`,
     ],
   },
 ];
@@ -82,9 +82,9 @@ const projects = [
     name: ``,
     description: ``,
     tags: [
-      { name: `Analytics`, color: "blue-text-gradient" },
-      { name: `Growth`, color: "green-text-gradient" },
-      { name: `Leadership`, color: "pink-text-gradient" },
+      { name: `AI`, color: "blue-text-gradient" },
+      { name: `Analytics`, color: "green-text-gradient" },
+      { name: `Automation`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
@@ -93,9 +93,9 @@ const projects = [
     name: ``,
     description: ``,
     tags: [
-      { name: `Design`, color: "blue-text-gradient" },
-      { name: `Optimization`, color: "green-text-gradient" },
-      { name: `Strategy`, color: "pink-text-gradient" },
+      { name: `Blockchain`, color: "blue-text-gradient" },
+      { name: `Security`, color: "green-text-gradient" },
+      { name: `Scalability`, color: "pink-text-gradient" },
     ],
     image: creator,
     source_code_link: ``,
